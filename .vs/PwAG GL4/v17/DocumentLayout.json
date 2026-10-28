@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{9A7126CE-2E68-4EAB-9416-7680C95BB64B}|PwAG GL4.vcxproj|C:\\Users\\USER\\Desktop\\PwAG-Projekt\\Source\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9A7126CE-2E68-4EAB-9416-7680C95BB64B}|PwAG GL4.vcxproj|solutionrelative:Source\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7126CE-2E68-4EAB-9416-7680C95BB64B}|PwAG GL4.vcxproj|C:\\Users\\USER\\Desktop\\PwAG-Projekt\\Shaders\\passThrough.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9A7126CE-2E68-4EAB-9416-7680C95BB64B}|PwAG GL4.vcxproj|solutionrelative:Shaders\\passThrough.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7126CE-2E68-4EAB-9416-7680C95BB64B}|PwAG GL4.vcxproj|C:\\Users\\USER\\Desktop\\PwAG-Projekt\\Shaders\\perVertexLightingSimple.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9A7126CE-2E68-4EAB-9416-7680C95BB64B}|PwAG GL4.vcxproj|solutionrelative:Shaders\\perVertexLightingSimple.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,13 +46,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "perVertexLightingSimple.vs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PwAG-Projekt\\Shaders\\perVertexLightingSimple.vs",
+              "RelativeDocumentMoniker": "Shaders\\perVertexLightingSimple.vs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PwAG-Projekt\\Shaders\\perVertexLightingSimple.vs",
+              "RelativeToolTip": "Shaders\\perVertexLightingSimple.vs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-28T16:25:23.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "passThrough.fs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PwAG-Projekt\\Shaders\\passThrough.fs",
+              "RelativeDocumentMoniker": "Shaders\\passThrough.fs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PwAG-Projekt\\Shaders\\passThrough.fs",
+              "RelativeToolTip": "Shaders\\passThrough.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-28T16:25:20.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "program.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PwAG-Projekt\\Source\\program.cpp",
               "RelativeDocumentMoniker": "Source\\program.cpp",
               "ToolTip": "C:\\Users\\USER\\Desktop\\PwAG-Projekt\\Source\\program.cpp",
               "RelativeToolTip": "Source\\program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAiwBABAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-15T22:42:08.173Z",
               "EditorCaption": ""
