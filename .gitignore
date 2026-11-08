@@ -30,3 +30,21 @@
 *.exe
 *.out
 *.app
+
+
+# Visual Studio - pliki u¿ytkownika
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio - cache i pliki tymczasowe
+.vs/
+Debug/
+Release/
+x64/
+x86/
+ipch/
+*.pdb
+*.obj
+*.ilk
