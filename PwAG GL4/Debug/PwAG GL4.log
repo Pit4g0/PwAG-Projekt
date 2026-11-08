@@ -1,2 +1,5 @@
-﻿  LINK : D:\Repos\PwAG-Projekt\Debug\PwAG GL4.exe not found or not built by the last incremental link; performing full link
+﻿  MainManager.cpp
+  program.cpp
+  Wave.cpp
+  Generating Code...
   PwAG GL4.vcxproj -> D:\Repos\PwAG-Projekt\Debug\PwAG GL4.exe
