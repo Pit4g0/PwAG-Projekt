@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\PwAG-Projekt\\",
+  "WorkspaceRootPath": "D:\\Repos\\PwAG-Projekt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A7126CE-2E68-4EAB-9416-7680C95BB64B}|PwAG GL4.vcxproj|C:\\Users\\USER\\Desktop\\PwAG-Projekt\\Source\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9A7126CE-2E68-4EAB-9416-7680C95BB64B}|PwAG GL4.vcxproj|D:\\Repos\\PwAG-Projekt\\Wave.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A7126CE-2E68-4EAB-9416-7680C95BB64B}|PwAG GL4.vcxproj|solutionrelative:Wave.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7126CE-2E68-4EAB-9416-7680C95BB64B}|PwAG GL4.vcxproj|D:\\Repos\\PwAG-Projekt\\Wave.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A7126CE-2E68-4EAB-9416-7680C95BB64B}|PwAG GL4.vcxproj|solutionrelative:Wave.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7126CE-2E68-4EAB-9416-7680C95BB64B}|PwAG GL4.vcxproj|D:\\Repos\\PwAG-Projekt\\Source\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9A7126CE-2E68-4EAB-9416-7680C95BB64B}|PwAG GL4.vcxproj|solutionrelative:Source\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A7126CE-2E68-4EAB-9416-7680C95BB64B}|PwAG GL4.vcxproj|C:\\Users\\USER\\Desktop\\PwAG-Projekt\\Shaders\\passThrough.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{9A7126CE-2E68-4EAB-9416-7680C95BB64B}|PwAG GL4.vcxproj|solutionrelative:Shaders\\passThrough.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{9A7126CE-2E68-4EAB-9416-7680C95BB64B}|PwAG GL4.vcxproj|D:\\Repos\\PwAG-Projekt\\MainManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A7126CE-2E68-4EAB-9416-7680C95BB64B}|PwAG GL4.vcxproj|solutionrelative:MainManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A7126CE-2E68-4EAB-9416-7680C95BB64B}|PwAG GL4.vcxproj|C:\\Users\\USER\\Desktop\\PwAG-Projekt\\Shaders\\perVertexLightingSimple.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{9A7126CE-2E68-4EAB-9416-7680C95BB64B}|PwAG GL4.vcxproj|solutionrelative:Shaders\\perVertexLightingSimple.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{9A7126CE-2E68-4EAB-9416-7680C95BB64B}|PwAG GL4.vcxproj|D:\\Repos\\PwAG-Projekt\\MainManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A7126CE-2E68-4EAB-9416-7680C95BB64B}|PwAG GL4.vcxproj|solutionrelative:MainManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,66 +30,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{75504045-d02f-44e5-bf60-5f60df380e8b}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{a0c5197d-0ac7-4b63-97cd-8872a789d233}"
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "perVertexLightingSimple.vs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PwAG-Projekt\\Shaders\\perVertexLightingSimple.vs",
-              "RelativeDocumentMoniker": "Shaders\\perVertexLightingSimple.vs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PwAG-Projekt\\Shaders\\perVertexLightingSimple.vs",
-              "RelativeToolTip": "Shaders\\perVertexLightingSimple.vs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAYwDkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-10-28T16:25:23.043Z",
+              "Title": "program.cpp",
+              "DocumentMoniker": "D:\\Repos\\PwAG-Projekt\\Source\\program.cpp",
+              "RelativeDocumentMoniker": "Source\\program.cpp",
+              "ToolTip": "D:\\Repos\\PwAG-Projekt\\Source\\program.cpp",
+              "RelativeToolTip": "Source\\program.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-08T14:10:18.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainManager.cpp",
+              "DocumentMoniker": "D:\\Repos\\PwAG-Projekt\\MainManager.cpp",
+              "RelativeDocumentMoniker": "MainManager.cpp",
+              "ToolTip": "D:\\Repos\\PwAG-Projekt\\MainManager.cpp",
+              "RelativeToolTip": "MainManager.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAWwCcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-08T14:00:09.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainManager.h",
+              "DocumentMoniker": "D:\\Repos\\PwAG-Projekt\\MainManager.h",
+              "RelativeDocumentMoniker": "MainManager.h",
+              "ToolTip": "D:\\Repos\\PwAG-Projekt\\MainManager.h",
+              "RelativeToolTip": "MainManager.h",
+              "ViewState": "AgIAADgAAAAAAAAAAAAWwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-08T13:58:24.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "passThrough.fs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PwAG-Projekt\\Shaders\\passThrough.fs",
-              "RelativeDocumentMoniker": "Shaders\\passThrough.fs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PwAG-Projekt\\Shaders\\passThrough.fs",
-              "RelativeToolTip": "Shaders\\passThrough.fs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-10-28T16:25:20.194Z",
+              "Title": "Wave.h",
+              "DocumentMoniker": "D:\\Repos\\PwAG-Projekt\\Wave.h",
+              "RelativeDocumentMoniker": "Wave.h",
+              "ToolTip": "D:\\Repos\\PwAG-Projekt\\Wave.h",
+              "RelativeToolTip": "Wave.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-08T13:49:11.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "program.cpp",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PwAG-Projekt\\Source\\program.cpp",
-              "RelativeDocumentMoniker": "Source\\program.cpp",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PwAG-Projekt\\Source\\program.cpp",
-              "RelativeToolTip": "Source\\program.cpp",
-              "ViewState": "AgIAAP8AAAAAAAAAAAAAAAsBAAAMAAAAAAAAAA==",
+              "Title": "Wave.cpp",
+              "DocumentMoniker": "D:\\Repos\\PwAG-Projekt\\Wave.cpp",
+              "RelativeDocumentMoniker": "Wave.cpp",
+              "ToolTip": "D:\\Repos\\PwAG-Projekt\\Wave.cpp",
+              "RelativeToolTip": "Wave.cpp",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-15T22:42:08.173Z",
+              "WhenOpened": "2026-11-08T13:48:58.379Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 150,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }

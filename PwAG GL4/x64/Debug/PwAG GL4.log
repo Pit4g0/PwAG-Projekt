@@ -1,0 +1,15 @@
+﻿program.obj : error LNK2019: unresolved external symbol __imp_glutInit referenced in function main
+program.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+program.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowPosition referenced in function main
+program.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+program.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+program.obj : error LNK2019: unresolved external symbol __imp_glutCreateWindow referenced in function main
+program.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "void __cdecl mouseMotion(int,int)" (?mouseMotion@@YAXHH@Z)
+program.obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function "void __cdecl drawScene(void)" (?drawScene@@YAXXZ)
+program.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+program.obj : error LNK2019: unresolved external symbol __imp_glutReshapeFunc referenced in function main
+program.obj : error LNK2019: unresolved external symbol __imp_glutMouseFunc referenced in function main
+program.obj : error LNK2019: unresolved external symbol __imp_glutMotionFunc referenced in function main
+program.obj : error LNK2019: unresolved external symbol __imp_glutPassiveMotionFunc referenced in function main
+D:\Repos\PwAG-Projekt\Dependencies\lib\glut32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\Repos\PwAG-Projekt\x64\Debug\PwAG GL4.exe : fatal error LNK1120: 13 unresolved externals
